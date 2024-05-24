@@ -1,6 +1,6 @@
-import Accordion from "./components/Accordion";
+import RandomBackgroundGenerator from "./components/randomBgGenerator";
 
 const App = () => {
-  return <Accordion />;
+  return <RandomBackgroundGenerator />;
 };
 export default App;
