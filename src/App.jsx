@@ -1,6 +1,6 @@
-import Accordion from "./components/accordion";
+import StarRating from "./components/starRating";
 
 const App = () => {
-  return <Accordion />;
+  return <StarRating />;
 };
 export default App;
