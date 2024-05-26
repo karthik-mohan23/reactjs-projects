@@ -1,6 +1,6 @@
-import ImageSlider from "./components/imageSlider";
+import Tabs from "./components/tabs";
 
 const App = () => {
-  return <ImageSlider />;
+  return <Tabs />;
 };
 export default App;
