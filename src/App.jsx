@@ -1,6 +1,6 @@
-import StarRating from "./components/starRating";
+import ImageSlider from "./components/imageSlider";
 
 const App = () => {
-  return <StarRating />;
+  return <ImageSlider />;
 };
 export default App;
