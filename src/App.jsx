@@ -1,6 +1,6 @@
-import Tabs from "./components/tabs";
+import Steps from "./components/steps";
 
 const App = () => {
-  return <Tabs />;
+  return <Steps />;
 };
 export default App;
