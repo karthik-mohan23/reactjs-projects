@@ -1,6 +1,6 @@
-import Steps from "./components/steps";
+import DateCounter from "./components/dateCounter";
 
 const App = () => {
-  return <Steps />;
+  return <DateCounter />;
 };
 export default App;
