@@ -1,6 +1,6 @@
-import TravelList from "./components/travelList";
+import FlashCards from "./components/flashCards";
 
 const App = () => {
-  return <TravelList />;
+  return <FlashCards />;
 };
 export default App;
