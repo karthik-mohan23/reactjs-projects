@@ -1,6 +1,6 @@
-import DateCounter from "./components/dateCounter";
+import TravelList from "./components/travelList";
 
 const App = () => {
-  return <DateCounter />;
+  return <TravelList />;
 };
 export default App;
